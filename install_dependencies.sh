@@ -1,1 +1,1 @@
-apt-get install sense-hat
+apt-get install sense-hat virtualenv
