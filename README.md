@@ -34,10 +34,10 @@ To start the web server
 The web server automatically starts using your private ip and not the local host. The default port is 8080
 
 The Rest server has 4 calls:
-  * humidity
-  * pressure
-  * temperature
-  * all_sensors
+ * humidity
+ * pressure
+ * temperature
+ * all_sensors
   
 For example  
 > http://ip:8080/humidity
