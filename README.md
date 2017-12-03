@@ -31,6 +31,7 @@ Also, this project use web.py as a web server for building an API rest.
 # How to use
 To start the web server
 > python rest_server.py [PORT]
+
 The web server automatically starts using your private ip and not the local host. The default port is 8080
 
 The Rest server has 4 calls:
