@@ -8,7 +8,7 @@ The Sense Hat has several sensors on it:
   
 Also the sense Hat has:
   * a led matrix
-  * joystick (not used in that example)
+  * a joystick (not used in that example)
 
 
 This project has two parts:
